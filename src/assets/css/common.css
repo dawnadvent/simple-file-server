@@ -1,0 +1,22 @@
+html{
+    height:100%;
+}
+body{
+    /* background-color: rgba(0, 0, 0, 0.5); */
+    background-image: url(../images/bg.jpg);
+    height: calc(100% - 20px);
+    font: Roboto,Avenir,Helvetica,Arial,sans-serif;
+}
+.dialog-btns{
+    text-align: right;
+}
+.left-tools{
+    float: left;
+    padding:0px;
+    margin:0px;
+}
+.right-tools{
+    float: right;
+    margin:0px;
+    padding:0px;
+}
