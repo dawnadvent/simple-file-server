@@ -6,6 +6,12 @@
 
 *项目中的chfs文件为linux平台下的执行文件，如果是windows系统，请下载windows版本的chfs文件。并修改package.json，run.sh等相关文件。*
 
+## 效果预览
+
+![](https://qooop.github.io/images/file-server-index.png "首页")
+
+![](https://qooop.github.io/images/file-server-upload.png "文件上传")
+
 ## 安装依赖
 ```
 npm install
