@@ -4,7 +4,7 @@
 
 后端直接使用chfs(Cute Http File Server）作为服务端。
 
-*项目中的chfs文件为linux平台下的执行文件，如果是windows系统，请下载windows版本的chfs文件。并修改package.json，run.sh等相关文件。*
+目前支持windows和linux两个平台。
 
 ## 效果预览
 
